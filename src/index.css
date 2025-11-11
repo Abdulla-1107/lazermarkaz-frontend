@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Warm artisanal wood palette */
+    --background: 35 25% 97%;
+    --foreground: 25 20% 20%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 25 20% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 25 20% 20%;
+
+    /* Rich wood brown primary */
+    --primary: 25 45% 35%;
+    --primary-foreground: 35 25% 97%;
+
+    /* Soft cream secondary */
+    --secondary: 35 35% 92%;
+    --secondary-foreground: 25 45% 35%;
+
+    /* Warm muted tones */
+    --muted: 35 25% 90%;
+    --muted-foreground: 25 15% 45%;
+
+    /* Blush accent for CTAs */
+    --accent: 350 65% 75%;
+    --accent-foreground: 25 20% 20%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 35 20% 88%;
+    --input: 35 20% 88%;
+    --ring: 25 45% 35%;
+
+    --radius: 0.75rem;
+
+    /* Success & warning */
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+
+    /* Sidebar tokens */
+    --sidebar-background: 35 25% 95%;
+    --sidebar-foreground: 25 20% 30%;
+    --sidebar-primary: 25 45% 35%;
+    --sidebar-primary-foreground: 35 25% 97%;
+    --sidebar-accent: 35 35% 90%;
+    --sidebar-accent-foreground: 25 45% 35%;
+    --sidebar-border: 35 20% 88%;
+    --sidebar-ring: 25 45% 35%;
+  }
+
+  .dark {
+    /* Deep charcoal with warm undertones */
+    --background: 25 15% 12%;
+    --foreground: 35 20% 92%;
+
+    --card: 25 15% 15%;
+    --card-foreground: 35 20% 92%;
+
+    --popover: 25 15% 15%;
+    --popover-foreground: 35 20% 92%;
+
+    /* Lighter wood tone for dark mode */
+    --primary: 35 55% 65%;
+    --primary-foreground: 25 15% 12%;
+
+    /* Darker cream */
+    --secondary: 25 20% 22%;
+    --secondary-foreground: 35 55% 65%;
+
+    --muted: 25 15% 18%;
+    --muted-foreground: 35 15% 60%;
+
+    /* Softer blush for dark mode */
+    --accent: 350 55% 60%;
+    --accent-foreground: 35 20% 92%;
+
+    --destructive: 0 62% 45%;
+    --destructive-foreground: 35 20% 92%;
+
+    --border: 25 15% 20%;
+    --input: 25 15% 20%;
+    --ring: 35 55% 65%;
+
+    /* Dark sidebar */
+    --sidebar-background: 25 15% 10%;
+    --sidebar-foreground: 35 20% 85%;
+    --sidebar-primary: 35 55% 65%;
+    --sidebar-primary-foreground: 25 15% 10%;
+    --sidebar-accent: 25 15% 18%;
+    --sidebar-accent-foreground: 35 55% 65%;
+    --sidebar-border: 25 15% 20%;
+    --sidebar-ring: 35 55% 65%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}

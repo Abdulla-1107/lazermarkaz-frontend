@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cart": "Cart",
+    "account": "Account"
+  },
+  "hero": {
+    "title": "Eco boxes — Modern design, traditional craft",
+    "subtitle": "High-quality wood and plywood products made with laser cutting technology",
+    "cta": "View Catalog",
+    "ctaSecondary": "Order Now"
+  },
+  "featured": {
+    "title": "Featured Products",
+    "subtitle": "Our best sellers"
+  },
+  "benefits": {
+    "title": "Why Choose Us?",
+    "eco": {
+      "title": "Eco-Friendly",
+      "description": "Natural and recyclable materials"
+    },
+    "precision": {
+      "title": "Precision",
+      "description": "Laser cutting ensures high quality"
+    },
+    "custom": {
+      "title": "Custom",
+      "description": "Any design and size to order"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Choose Product",
+      "description": "Find what you need in our catalog"
+    },
+    "step2": {
+      "title": "Customize",
+      "description": "Set size, engraving, and design"
+    },
+    "step3": {
+      "title": "Place Order",
+      "description": "We'll make and deliver it fast"
+    }
+  },
+  "footer": {
+    "about": "Hunarmand — a studio specializing in laser-cut wood and plywood products",
+    "contact": "Contact",
+    "hours": "Hours: Mon-Fri 9:00-18:00",
+    "newsletter": "Newsletter",
+    "newsletterPlaceholder": "Your email",
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "orderNow": "Order Now",
+    "price": "Price",
+    "sku": "SKU",
+    "material": "Material",
+    "dimensions": "Dimensions",
+    "weight": "Weight",
+    "stockStatus": "Status",
+    "productionTime": "Production Time",
+    "customization": "Customization",
+    "engravingText": "Engraving text",
+    "engravingPlaceholder": "Enter text...",
+    "selectVariant": "Select variant",
+    "quantity": "Quantity",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "reviews": "Reviews",
+    "rating": "Rating",
+    "writeReview": "Write Review",
+    "related": "Related Products",
+    "shippingEstimate": "Shipping",
+    "fullDescription": "Full Description",
+    "specifications": "Specifications"
+  },
+  "catalog": {
+    "title": "Product Catalog",
+    "filters": "Filters",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "boxes": "Boxes",
+    "signs": "Signs",
+    "corporate": "Corporate Gifts",
+    "gifts": "Gifts",
+    "priceRange": "Price Range",
+    "sortBy": "Sort By",
+    "sortNewest": "Newest",
+    "sortPriceLow": "Price: Low to High",
+    "sortPriceHigh": "Price: High to Low",
+    "noResults": "No products found"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "promoCode": "Promo Code",
+    "applyPromo": "Apply"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "contact": "Contact Information",
+    "email": "Email",
+    "phone": "Phone",
+    "shipping": "Shipping Address",
+    "fullName": "Full Name",
+    "address": "Address",
+    "city": "City",
+    "region": "Region",
+    "zip": "ZIP Code",
+    "deliveryMethod": "Delivery Method",
+    "courier": "Courier Delivery",
+    "pickup": "Pickup",
+    "payment": "Payment Method",
+    "card": "Card",
+    "cash": "Cash",
+    "note": "Note",
+    "acceptTerms": "I accept the terms and conditions",
+    "placeOrder": "Place Order",
+    "processing": "Processing..."
+  },
+  "orderConfirmation": {
+    "title": "Order Confirmed!",
+    "message": "Your order has been successfully placed",
+    "orderNumber": "Order Number",
+    "estimatedDelivery": "Estimated Delivery",
+    "downloadInvoice": "Download Invoice",
+    "backToHome": "Back to Home"
+  },
+  "about": {
+    "title": "About Us",
+    "story": "Hunarmand (Rahmanov Doniyor Abdusattorovich) is a modern studio specializing in laser-cut wood and plywood products. Founded in 2020, we have been creating high-quality, eco-friendly, and aesthetically pleasing products.",
+    "mission": "Our goal is to combine traditional craftsmanship with modern technology to create unique and practical products for every customer.",
+    "values": {
+      "title": "Our Values",
+      "quality": "Quality",
+      "qualityDesc": "We use only high-quality materials and state-of-the-art equipment",
+      "eco": "Ecology",
+      "ecoDesc": "Caring for nature is our core principle",
+      "individual": "Approach",
+      "individualDesc": "We take an individual approach to each customer and consider their wishes"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How long does delivery take?",
+    "a1": "Standard orders are ready in 3-5 business days. Custom projects are negotiated separately.",
+    "q2": "Is there a minimum order quantity?",
+    "a2": "No, we accept both single items and bulk orders.",
+    "q3": "What materials do you use?",
+    "a3": "We use high-quality natural wood (birch, oak) and eco-friendly plywood.",
+    "q4": "Can I add engraving?",
+    "a4": "Yes, we offer text and design engraving. Price depends on the product.",
+    "q5": "Can I bring my own design?",
+    "a5": "Absolutely! We work with customer's custom designs.",
+    "q6": "What payment methods are available?",
+    "a6": "We accept cash, card, and bank transfer.",
+    "q7": "What is your return policy?",
+    "a7": "If the product is defective, you can return it within 14 days.",
+    "q8": "Are there discounts for corporate orders?",
+    "a8": "Yes, we offer special prices for bulk orders.",
+    "q9": "Do you deliver outside Tashkent?",
+    "a9": "Yes, we deliver throughout Uzbekistan.",
+    "q10": "How can I contact you?",
+    "a10": "You can contact us by phone, email, or social media."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Message sent!",
+    "error": "An error occurred"
+  },
+  "admin": {
+    "title": "Add Product",
+    "productName": "Product Name",
+    "price": "Price",
+    "category": "Category",
+    "material": "Material",
+    "dimensions": "Dimensions (cm)",
+    "image": "Upload Image",
+    "description": "Description",
+    "add": "Add",
+    "success": "Product added!",
+    "error": "An error occurred"
+  },
+  "account": {
+    "title": "My Account",
+    "orders": "Orders",
+    "noOrders": "No orders",
+    "orderDate": "Date",
+    "orderStatus": "Status",
+    "orderTotal": "Total"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "apply": "Apply",
+    "currency": "UZS",
+    "days": "days",
+    "close": "Close"
+  }
+}

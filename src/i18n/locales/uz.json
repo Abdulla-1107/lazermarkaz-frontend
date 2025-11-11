@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "catalog": "Mahsulotlar",
+    "about": "Biz haqimizda",
+    "faq": "Savollar",
+    "contact": "Aloqa",
+    "cart": "Savat",
+    "account": "Kabinet"
+  },
+  "hero": {
+    "title": "Ekologik qutilar — Zamonaviy dizayn, anʼanaviy hunarmandlik",
+    "subtitle": "Lazerli kesish texnologiyasi yordamida tayyorlangan yuqori sifatli yog'och va fanera mahsulotlari",
+    "cta": "Katalogni ko'rish",
+    "ctaSecondary": "Buyurtma berish"
+  },
+  "featured": {
+    "title": "Mashhur mahsulotlar",
+    "subtitle": "Bizning eng yaxshi mahsulotlarimiz"
+  },
+  "benefits": {
+    "title": "Nima uchun biz?",
+    "eco": {
+      "title": "Ekologik",
+      "description": "Tabiy va qayta ishlanadigan materiallar"
+    },
+    "precision": {
+      "title": "Aniqlik",
+      "description": "Lazerli kesish yuqori sifatni kafolatlaydi"
+    },
+    "custom": {
+      "title": "Individual",
+      "description": "Har qanday dizayn va o'lchamda buyurtma"
+    }
+  },
+  "howItWorks": {
+    "title": "Qanday ishlaydi",
+    "step1": {
+      "title": "Mahsulotni tanlang",
+      "description": "Katalogdan kerakli mahsulotni toping"
+    },
+    "step2": {
+      "title": "Sozlang",
+      "description": "O'lcham, gravyura va dizaynni belgilang"
+    },
+    "step3": {
+      "title": "Buyurtma bering",
+      "description": "Biz tezda tayyorlab yetkazamiz"
+    }
+  },
+  "footer": {
+    "about": "Hunarmand — yog'och va fanera mahsulotlarini lazerli kesish bo'yicha mutaxassis studiya",
+    "contact": "Aloqa",
+    "hours": "Ish vaqti: Du-Ju 9:00-18:00",
+    "newsletter": "Yangiliklar",
+    "newsletterPlaceholder": "Email manzilingiz",
+    "subscribe": "Obuna bo'lish",
+    "rights": "Barcha huquqlar himoyalangan"
+  },
+  "product": {
+    "addToCart": "Savatga",
+    "buyNow": "Xarid qilish",
+    "orderNow": "Buyurtma berish",
+    "price": "Narx",
+    "sku": "Artikul",
+    "material": "Material",
+    "dimensions": "O'lcham",
+    "weight": "Og'irligi",
+    "stockStatus": "Holat",
+    "productionTime": "Tayyorlanish muddati",
+    "customization": "Sozlash",
+    "engravingText": "Gravyura matni",
+    "engravingPlaceholder": "Matn kiriting...",
+    "selectVariant": "Variantni tanlang",
+    "quantity": "Miqdor",
+    "inStock": "Mavjud",
+    "outOfStock": "Tugagan",
+    "reviews": "Sharhlar",
+    "rating": "Baho",
+    "writeReview": "Sharh yozish",
+    "related": "O'xshash mahsulotlar",
+    "shippingEstimate": "Yetkazib berish",
+    "fullDescription": "To'liq tavsif",
+    "specifications": "Xususiyatlar"
+  },
+  "catalog": {
+    "title": "Mahsulotlar katalogi",
+    "filters": "Filtrlar",
+    "category": "Kategoriya",
+    "allCategories": "Barcha kategoriyalar",
+    "boxes": "Qutilar",
+    "signs": "Yozuvlar",
+    "corporate": "Korporativ sovg'alar",
+    "gifts": "Sovg'alar",
+    "priceRange": "Narx oralig'i",
+    "sortBy": "Saralash",
+    "sortNewest": "Eng yangi",
+    "sortPriceLow": "Arzon",
+    "sortPriceHigh": "Qimmat",
+    "noResults": "Mahsulot topilmadi"
+  },
+  "cart": {
+    "title": "Savat",
+    "empty": "Savat bo'sh",
+    "continueShopping": "Xaridni davom ettirish",
+    "subtotal": "Jami",
+    "shipping": "Yetkazib berish",
+    "total": "Umumiy",
+    "checkout": "To'lovga o'tish",
+    "remove": "O'chirish",
+    "promoCode": "Promo kod",
+    "applyPromo": "Qo'llash"
+  },
+  "checkout": {
+    "title": "To'lov",
+    "contact": "Aloqa ma'lumotlari",
+    "email": "Email",
+    "phone": "Telefon",
+    "shipping": "Yetkazib berish manzili",
+    "fullName": "To'liq ism",
+    "address": "Manzil",
+    "city": "Shahar",
+    "region": "Viloyat",
+    "zip": "Pochta indeksi",
+    "deliveryMethod": "Yetkazib berish usuli",
+    "courier": "Kuryer",
+    "pickup": "O'zim olib ketaman",
+    "payment": "To'lov usuli",
+    "card": "Karta",
+    "cash": "Naqd",
+    "note": "Izoh",
+    "acceptTerms": "Shartlar va qoidalar bilan roziman",
+    "placeOrder": "Buyurtmani rasmiylashtirish",
+    "processing": "Qayta ishlanmoqda..."
+  },
+  "orderConfirmation": {
+    "title": "Buyurtma qabul qilindi!",
+    "message": "Sizning buyurtmangiz muvaffaqiyatli qabul qilindi",
+    "orderNumber": "Buyurtma raqami",
+    "estimatedDelivery": "Taxminiy yetkazib berish",
+    "downloadInvoice": "Hisob-faktura yuklab olish",
+    "backToHome": "Bosh sahifaga qaytish"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "story": "Hunarmand (Rahmanov Doniyor Abdusattorovich) — bu yog'och va fanera mahsulotlarini lazerli kesish bo'yicha ixtisoslashgan zamonaviy studiya. Biz 2020-yilda tashkil etilganmiz va o'shandan beri yuqori sifatli, ekologik toza va estetik mahsulotlar ishlab chiqaramiz.",
+    "mission": "Bizning maqsadimiz — anʼanaviy hunarmandchilikni zamonaviy texnologiyalar bilan uyg'unlashtirib, har bir mijoz uchun noyob va amaliy mahsulotlar yaratish.",
+    "values": {
+      "title": "Bizning qadriyatlarimiz",
+      "quality": "Sifat",
+      "qualityDesc": "Biz faqat yuqori sifatli materiallar va eng zamonaviy uskunalardan foydalanamiz",
+      "eco": "Ekologiya",
+      "ecoDesc": "Tabiatga g'amxo'rlik qilish bizning asosiy tamoyilimiz",
+      "individual": "Yondoshuv",
+      "individualDesc": "Har bir mijozga individual yondashamiz va uning istak-ehtiyojlarini hisobga olamiz"
+    }
+  },
+  "faq": {
+    "title": "Tez-tez beriladigan savollar",
+    "q1": "Yetkazib berish qancha vaqt oladi?",
+    "a1": "Oddiy buyurtmalar 3-5 ish kuni ichida tayyorlanadi. Individual loyihalar uchun muddat alohida kelishiladi.",
+    "q2": "Minimal buyurtma miqdori bormi?",
+    "a2": "Yo'q, biz bitta dona ham, ommaviy buyurtmalar ham qabul qilamiz.",
+    "q3": "Qanday materiallardan foydalanasiz?",
+    "a3": "Biz yuqori sifatli tabiiy yog'och (qayrag'och, eman) va ekologik fanera ishlatamiz.",
+    "q4": "Gravyura qo'shish mumkinmi?",
+    "a4": "Ha, biz matn va dizayn gravyurasini taklif qilamiz. Narx mahsulotga bog'liq.",
+    "q5": "O'z dizaynimni keltira olamanmi?",
+    "a5": "Albatta! Biz mijozlarning shaxsiy dizaynlari bilan ishlaymiz.",
+    "q6": "Qanday to'lov usullari mavjud?",
+    "a6": "Biz naqd, karta va bank o'tkazmasi orqali to'lovni qabul qilamiz.",
+    "q7": "Qaytarish siyosati qanday?",
+    "a7": "Agar mahsulot nuqsonli bo'lsa, 14 kun ichida qaytarishingiz mumkin.",
+    "q8": "Korporativ buyurtmalar uchun chegirmalar bormi?",
+    "a8": "Ha, ommaviy buyurtmalar uchun maxsus narxlar taklif qilamiz.",
+    "q9": "Toshkentdan tashqariga yetkazibasizmi?",
+    "a9": "Ha, biz butun O'zbekiston bo'ylab yetkazib beramiz.",
+    "q10": "Qanday qilib bog'lanish mumkin?",
+    "a10": "Telefon, email yoki ijtimoiy tarmoqlar orqali bog'lanishingiz mumkin."
+  },
+  "contact": {
+    "title": "Biz bilan bog'laning",
+    "name": "Ism",
+    "email": "Email",
+    "phone": "Telefon",
+    "message": "Xabar",
+    "send": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Xabar yuborildi!",
+    "error": "Xatolik yuz berdi"
+  },
+  "admin": {
+    "title": "Mahsulot qo'shish",
+    "productName": "Mahsulot nomi",
+    "price": "Narx",
+    "category": "Kategoriya",
+    "material": "Material",
+    "dimensions": "O'lcham (sm)",
+    "image": "Rasm yuklash",
+    "description": "Ta'rif",
+    "add": "Qo'shish",
+    "success": "Mahsulot qo'shildi!",
+    "error": "Xatolik yuz berdi"
+  },
+  "account": {
+    "title": "Mening kabinetim",
+    "orders": "Buyurtmalar",
+    "noOrders": "Buyurtmalar yo'q",
+    "orderDate": "Sana",
+    "orderStatus": "Holat",
+    "orderTotal": "Summa"
+  },
+  "common": {
+    "loading": "Yuklanmoqda...",
+    "error": "Xatolik",
+    "success": "Muvaffaqiyatli",
+    "cancel": "Bekor qilish",
+    "save": "Saqlash",
+    "edit": "Tahrirlash",
+    "delete": "O'chirish",
+    "confirm": "Tasdiqlash",
+    "search": "Qidirish",
+    "filter": "Filtr",
+    "clear": "Tozalash",
+    "apply": "Qo'llash",
+    "currency": "so'm",
+    "days": "kun",
+    "close": "Yopish"
+  }
+}
