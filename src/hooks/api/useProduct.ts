@@ -1,8 +1,12 @@
 import { useQuery } from "@tanstack/react-query";
 import api from "./api";
 
+interface ProductProps {
+  categoryId?: string;
+}
+
 export const useProduct = () => {
-  const getProduct = (props: any) =>
+  const getProduct = (props: ProductProps) =>
     useQuery({
       queryKey: ["product", props],
       queryFn: () =>
