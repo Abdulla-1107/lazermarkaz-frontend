@@ -13,6 +13,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import icon from "../../public/images/icon.png";
 
 export const Header = () => {
   const { t, i18n } = useTranslation();
@@ -41,13 +42,16 @@ export const Header = () => {
         {/* LEFT SIDE — LOGO + NAV */}
         <div className="flex items-center gap-8">
           <Link to="/" className="flex items-center space-x-2">
-            <div className="h-9 w-9 rounded-xl bg-primary shadow-md" />
+            <img
+              src={icon}
+              alt="Logo"
+              className="h-10 w-10 rounded-[10px] object-cover shadow-md"
+            />
+
             <span className="hidden font-bold sm:inline-block text-lg">
-              Hunarmand
+              LazerMarkaz
             </span>
           </Link>
-
-          {/* DESKTOP NAV */}
           <nav className="hidden md:flex gap-6">
             {navLinks.map((link) => (
               <Link
